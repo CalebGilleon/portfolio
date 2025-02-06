@@ -8,7 +8,7 @@ Follow these steps to set up and run the Flask app.
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3
 - Virtual environment (optional but recommended)
 
 ### 1. Clone the Repository
